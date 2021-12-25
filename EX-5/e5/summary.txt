@@ -1,0 +1,19 @@
+Summary
+
+Data	Mean (x, y)	  	Standard Deviation(x, y)  Range(min) (x, y)	  Range (max) (x, y)	    Correlation Coefficient
+1	8.717696   12.522874	12.094587   6.606681	 -22.635878 -2.565088	 35.237055 27.384153		0.9503256954375482
+2	-0.710787  -0.748987	11.424031   6.226550	 -33.271113 -18.621804	 27.647000 14.147315		0.9551531665750373
+3	0.968907    8.508535	2.231829.   1.147384	 -2.449064   6.641734 	 4.518885  10.551871		0.9819372646760658
+4	49.905086  18.553837	28.387554. 16.475638		0.0	0.0	 87.37670  44.56504		-0.08119306735490815
+5	49.909994  18.555525	28.378981  16.470559	 4.337892.   0.055498	 91.052863 49.934197		-0.08823598983058883
+6	7.216155    7.602215	11.861841. 11.705413	 -24.333821 -22.956357	 35.402139 36.079874		0.9350685662094905
+
+Description
+Data 1: In the data set, the correlation coefficient is 0.9503256954375482 which is greater than 0.4, x and y values are strongly correlated
+Data 2: In the data set, the correlation coefficient is 0.9551531665750373 which is greater than 0.4, x and y values are strongly correlated
+Data 3: In the data set, the correlation coefficient is 0.9819372646760658 which is greater than 0.4, x and y values are strongly correlated
+Data 4: In the data set, the correlation coefficient is -0.08119306735490815 which is less than -0.4, therefore we cannot say anything about the correlation between x and y values.
+Data 5: In the data set, the correlation coefficient is -0.08823598983058883 which is less than -0.4, therefore we cannot say anything about the correlation between x and y values.
+Data 6: In the data set, the correlation coefficient is 0.9350685662094905 which is greater than 0.4, x and y values are strongly correlated
+
+

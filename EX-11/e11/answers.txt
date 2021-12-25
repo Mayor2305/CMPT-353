@@ -1,0 +1,9 @@
+answer 1: i used .cache() in 3 places that is 
+		 -> data when calcularing relative score
+		 -> data when grouped and found max relative score
+		 -> data when grouped by subreddit and found max comment score
+		 if .cache() was not used, since these 3 datasets are being reused, spark would have calculated them every time and thus making the program time intensive and inefficient.
+answer 2:
+		-> broadcast time -> 1m10.229s
+		-> without broadcast time -> 1m32.660s
+		as we can see, with broadcast, the running time was faster. This is because broadcast helps to limit shuffling of data over the cluster. in our case, we are broadcasting small data over the large one which reduces the amount of shuffling.

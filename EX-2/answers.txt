@@ -1,0 +1,9 @@
+answer1: the calculation data['timestamp']*fit.slope + fit.intercept gives us the linear fit (estimated value of ratings which is also known as prediction). 
+
+	the type is float64
+
+	If compared to y = mx + c where m is slope and c is intercept, we are predicting y based on the values of timestamps and slope, intercept calculated using linear regression function linregress.
+
+answer2: it produces fit line on the graph because created_at and timestamp are the values calculated for the tweets, thus they are related.
+
+	created_at values and timestamp values paired correctly to make points on the plot because timestamp is calculated using created_at and thus each created_at has its own timestamp and therefore, they pair up correctly

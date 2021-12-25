@@ -1,0 +1,3 @@
+question1: no, the daily temperature is not a good measure of pupulation density as the affect of poplulation on temperature is minimal and temperature is more affected by the geographical location of the city as well as number of industries setup in the city. Due to such reasons, the scatter plot shows no relationship.
+
+question2: due to small size of the compressed file, it could be loaded to the main memory (faster) delaying swaps for i/o operations whereas decompressed .json file with huge amount of data will most likely be on the hard disk which is slower and takes more time than the main memory.

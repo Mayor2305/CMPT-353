@@ -1,0 +1,7 @@
+answer1: np.sqrt (square root) was the only trasformation which was closest to the normality test threshold of 0.05. Moreover, it also passed levene test.
+
+answer2: for both the tests, if the null hypothesis (reddit comments on weekdays == reddit comments on weekends) is rejected, it means that there are different number of reddit comments on weedays than weekends
+
+answer3: in my opinion, fix2 with np.sqrt does the better job because we are actually using same data but only scaling it according to the squareroot which gives closer to original data and thus the results can be relied upon.
+
+answer4: in my opinion, weekdays comments are more than weekend comments as we can see that the mean of weekend comments is less than weekday comments.

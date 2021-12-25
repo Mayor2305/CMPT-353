@@ -1,0 +1,4 @@
+Ans1: a.) no the residuals are not close enough because of presence of outliers. therefore looking at OLS without transforming residual data (to make it normal) wouldn't make any sense
+      b.) since the p-value from regression test is less then 0.05, the null hypothesis (H_nod = slope of the regression line is 0) is rejected and thus the ratings are increasing.
+
+Ans2: yes, after comparing the output figure from exercise 3 and 7, it looks like the new “better” prediction from exercise 7 is letting the Kalman filter do a better job capturing the true signal in the noise

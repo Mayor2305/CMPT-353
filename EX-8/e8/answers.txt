@@ -1,0 +1,7 @@
+answer1: --> rf_covert_model (with RandomForest classifier and StandardScalar feature sclaer) did best in colour-prediction task 
+        --> theory: it works by introducing randomness into the construction of the trees so they are different and then have a vote. This prevents overfitting/underfitting by limiting the number of trees constructed (n_estimators) to 100. 
+         --> According to me, RGB/LAB/HSV worked better for different models because of their linearity which impacts the comparisons.
+         
+answer2: --> according to me, the model is making reasonable mistakes because the features of many cities are similar and thus is hard to distinguish. 
+         --> I believe, rainfall, sunlight, winds, high tides, low tides, humidity, and moisture could potentially be added to make better predictions.
+         

@@ -1,0 +1,2 @@
+Answer1: kalman filter gives a better result because of its ability to work with outliers (i.e. it is better in handling outliers because of its sensitivity towards them).
+Answer2: time and speed could have been used as transition mattrix to accurately compute how the values are changing using the formula speed = distance / time. Course could have been used to know the accuracy of the prediction.

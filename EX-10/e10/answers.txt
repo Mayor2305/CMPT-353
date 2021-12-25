@@ -1,0 +1,14 @@
+question 1: 
+	(1)	real	0m17.195s 
+
+	(2) real	0m21.474s
+
+	(3) real	0m20.053s
+
+	(4) real	0m17.278s
+
+question 2:
+	the above observation implies that the more time is taken in reading the data as we can see that once the data has a schema and is cached, the time taken decreases.
+
+question 3:
+	i am putting the .cache() after the data has been filtered and grouped. this is so that we can get rid of the overhead of calculating these values repeatedly and thus the dataframe can be reused.

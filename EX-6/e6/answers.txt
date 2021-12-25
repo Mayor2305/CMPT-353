@@ -1,0 +1,3 @@
+Answer1: i think that we have p-hacked the values since we have considered only the instructors. This relates to "Bad thing #2: keep doing analysis until you find something significant". (G. Baker) 
+Answer2: According to the shaking hands principle from discrete mathematics, therefore number of tests = (7*6)/2 = 21 tests. Probability of having wrong conclution would be 1 - (0.95)^21 = 0.65943837371. Affective alpha = 0.05/21 =  0.00238095238
+answer3: according to posthoc.plot_simultaneous() , speed: partition_sort > qs1 > qs5 > qs4 > qs2 > qs3/merge1 and the indestingushable are: qs3 and merge1
